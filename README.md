@@ -55,7 +55,9 @@ python analise_vendas.py
 
 ## 📊 Exemplo de Saída
 
-![Dashboard Excel](![image](https://github.com/user-attachments/assets/a5fbd58b-e407-43ad-8b81-5c0025e08cec)
+![Dashboard Excel]
+
+(![image](https://github.com/user-attachments/assets/a5fbd58b-e407-43ad-8b81-5c0025e08cec)
 
 ## 📝 Licença
 
