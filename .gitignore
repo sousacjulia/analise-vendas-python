@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+
+# Banco de dados (opcional - comente se quiser versionar)
+database/vendas.db
+
+# Dados gerados
+data/dashboard.xlsx
+
+# IDE
+.vscode/
+.idea/
