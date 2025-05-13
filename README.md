@@ -1,6 +1,8 @@
 # 📊 Sistema de Análise de Vendas com Python
 
-![Dashboard Example](images/vendas_produto.png)
+[Dashboard Example]
+
+![image](https://github.com/user-attachments/assets/05720997-7c85-49eb-bb7a-5850ed47b23f)
 
 Projeto completo para análise de dados de vendas com:
 
@@ -53,7 +55,7 @@ python analise_vendas.py
 
 ## 📊 Exemplo de Saída
 
-![Dashboard Excel](images/dashboard_example.png)
+![Dashboard Excel](![image](https://github.com/user-attachments/assets/a5fbd58b-e407-43ad-8b81-5c0025e08cec)
 
 ## 📝 Licença
 
